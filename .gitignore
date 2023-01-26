@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Character assets
+Content/ParagonGreystone
+Content/ParagonTerra
+Content/ParagonYin
+Content/StarterContent
